@@ -41,7 +41,7 @@
 ## 🕹️ Snake Game Contribution Graph
 
 <p align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/raw/output/github-contribution-grid-snake.gif" alt="snake gif" />
+  <img src="https://github.com/Shaikh-Aabid/raw/output/github-contribution-grid-snake.gif" alt="snake gif" />
 </p>
 
 ---
