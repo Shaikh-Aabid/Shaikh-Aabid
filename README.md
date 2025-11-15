@@ -33,7 +33,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=radical&show_icons=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shaikh-Aabid&theme=radical&show_icons=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 ---
@@ -41,7 +41,7 @@
 ## 🕹️ Snake Game Contribution Graph
 
 <p align="center">
-  <img src="https://github.com/Shaikh-Aabid/raw/output/github-contribution-grid-snake.gif" alt="snake gif" />
+  <img src="https://github.com/Shaikh-Aabid/Shaikh-Aabid/raw/output/github-contribution-grid-snake.gif" alt="snake gif" />
 </p>
 
 ---
