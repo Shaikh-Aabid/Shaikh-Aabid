@@ -8,8 +8,14 @@
 ███████████████████████████████████████████████████████████████████████
 -->
 
+<!-- Animated Neon Header with Typing Text -->
+<p align="center" style="margin-bottom: 6px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=36&duration=4000&pause=1200&color=FF006E&center=true&width=800&lines=SHAIKH+AABID+HUSSAIN;Level+99+Flutter+Alchemist⚡;Mobile+Dev+Wizard+Unleashed" 
+    alt="Animated Neon Header" style="max-width:800px; width:98%;" />
+</p>
+
 <!-- Epic Neon Pixel-Art Banner -->
-<p align="center" style="margin-bottom: -8px;">
+<p align="center" style="margin-top:-12px;margin-bottom: -8px;">
   <img src="https://raw.githubusercontent.com/Shaikh-Aabid/Shaikh-Aabid/main/assets/banner-flutter-rpg.gif"
     alt="SHAIKH AABID HUSSAIN: Flutter Chronicles Neon RPG"
     style="width:100%; max-width:900px; min-width:320px; border-radius:18px; box-shadow:
@@ -19,11 +25,11 @@
       image-rendering: pixelated;" />
 </p>
 
-<!-- Corrected Animated Typing Hero Text (Pixel Font) -->
-<p align="center" style="margin-bottom: 6px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=36&duration=4000&pause=1200&color=FF006E&center=true&width=800&lines=SHAIKH+AABID+HUSSAIN;Level+99+Flutter+Alchemist⚡;Mobile+Dev+Wizard+Unleashed" 
-    alt="Animated Neon Header" style="max-width:800px; width:98%;" />
+<!-- Animated Typing Hero Text (Pixel Font) -->
+<p align="center" style="margin-top:-12px;margin-bottom:12px;">
+  ![Typing animated text](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=28&duration=3500&pause=1000&color=FF006E&center=true&width=750&lines=Welcome,+traveler...+Ready+to+level+up?;Master+of+Flutter+%26+Mobile+Magic;Currently+conquering:+MAMAEARTH+%F0%9F%8C%B1+•+PetWalkie+%F0%9F%90%BE+•+Mehfil+%F0%9F%8E%89)
 </p>
+
 
 <!-- Scanline Glowing Divider -->
 <div align="center" style="margin-bottom:20px;">
