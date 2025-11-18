@@ -10,7 +10,7 @@
 
 <!-- Neon Pixel-Art Glowing Banner (GIF) -->
 <p align="center">
-  <img src="https://githubusercontent.com/Shaikh-Aabid/Shaikh-Aabid/raw/main/assets/banner-cyber-flutter.gif"
+  <img src="https://raw.githubusercontent.com/Shaikh-Aabid/Shaikh-Aabid/main/assets/banner-cyber-flutter.gif"
     alt="SHAIKH AABID HUSSAIN: THE FLUTTER CHRONICLES"
     style="width:100%; max-width:900px; min-width:320px; border-radius:16px; box-shadow:
       0 0 18px #00D9FF,
@@ -59,7 +59,7 @@
       <td><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f331.png" width="44" alt="plant icon"><br>MAMAEARTH<br><span style="color:#00D9FF; font-weight:400; font-size:12px;">Natural Beauty App</span></td>
       <td><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f436.png" width="44" alt="dog"><br>PetWalkie<br><span style="color:#FF006E; font-weight:400; font-size:12px;">Pet Care</span></td>
       <td><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f389.png" width="44" alt="party popper"><br>Mehfil<br><span style="color:#D200FF; font-weight:400; font-size:12px;">Social</span></td>
-      <td><img src="https://raw.githubusercontent.com/Shaikh-Aabid/assets/main/icons/chooseapp-neon.png" width="44" alt="ChooseApp icon"><br>ChooseApp<br><span style="color:#00D9FF; font-weight:400; font-size:12px;">India’s 1st Interoperable Mobility SuperApp</span></td>
+      <td><img src="https://raw.githubusercontent.com/Shaikh-Aabid/Shaikh-Aabid/main/assets/chooseapp-neon.png" width="44" alt="ChooseApp icon"><br>ChooseApp<br><span style="color:#00D9FF; font-weight:400; font-size:12px;">India’s 1st Interoperable Mobility SuperApp</span></td>
       <td><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f6e0.png" width="44" alt="hammer and wrench"><br>Indiacrete<br><span style="color:#FF006E; font-weight:400; font-size:12px;">Construction Tech</span></td>
     </tr>
   </table>
