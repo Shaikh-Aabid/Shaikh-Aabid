@@ -19,10 +19,9 @@
       image-rendering: pixelated;" />
 </p>
 
-<!-- Animated Typing Hero Text (Pixel Font) -->
+<!-- Corrected Animated Typing Hero Text (Pixel Font) -->
 <p align="center" style="margin-top:-12px;margin-bottom:12px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=28&duration=3500&pause=1000&color=FF006E&center=true&width=750&lines=Welcome,+traveler...+Ready+to+level+up?;Master+of+Flutter+%26+Mobile+Magic;Currently+conquering:+MAMAEARTH+%F0%9F%8C%B1+•+PetWalkie+%F0%9F%90%BE+•+Mehfil+%F0%9F%8E%89"
-    alt="Typing animated text" style="max-width:750px; width:98%;" />
+  ![Typing animated text](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=28&duration=3500&pause=1000&color=FF006E&center=true&width=750&lines=Welcome,+traveler...+Ready+to+level+up?;Master+of+Flutter+%26+Mobile+Magic;Currently+conquering:+MAMAEARTH+%F0%9F%8C%B1+•+PetWalkie+%F0%9F%90%BE+•+Mehfil+%F0%9F%8E%89)
 </p>
 
 <!-- Scanline Glowing Divider -->
@@ -38,7 +37,7 @@
 <div align="center" style="display:flex; flex-wrap: wrap; justify-content: center; gap:24px;">
 
   <img src="https://github-readme-stats.vercel.app/api?username=Shaikh-Aabid&show_icons=true&theme=cyberpunk&hide_border=true&icon_color=FF006E&title_color=00D9FF&text_color=dadada&bg_color=0d1117"
-    width="430" style="border-radius:16px; box-shadow: 0 0 20px #FF006E;" alt="Github Stats" />
+  width="430" style="border-radius:16px; box-shadow: 0 0 20px #FF006E;" alt="Github Stats" />
 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Shaikh-Aabid&theme=neon-dark&hide_border=true&fire=FF006E&ring=00D9FF&background=0d1117&stroke=FF006E"
     width="400" style="border-radius:16px; box-shadow: 0 0 20px #00D9FF;" alt="Streak Stats" />
