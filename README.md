@@ -21,11 +21,11 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on: production‑grade **Flutter apps** and **Laravel backends** with a focus on scalability and UX  
-- 🌱 Exploring: **AI integrations in mobile apps**, better **DevOps pipelines**, and **clean architecture** patterns  
+- 🔭 Currently working on: production‑grade <strong>Flutter apps</strong> and <strong>Laravel backends</strong> with a focus on scalability and UX  
+- 🌱 Exploring: <strong>AI integrations in mobile apps</strong>, better <strong>DevOps pipelines</strong>, and <strong>clean architecture</strong> patterns  
 - 💬 Ask me about: Flutter, Dart, Laravel, REST APIs, state management, and app performance optimization  
 - 🎯 Goal: Build impactful products, grow in system design, and contribute more to open‑source  
-- ⚡ Fun fact: I enjoy turning complex ideas into simple, intuitive app experiences
+- ⚡ Fun fact: I enjoy turning complex ideas into simple, intuitive app experiences  
 
 ---
 
@@ -66,23 +66,20 @@
 
 ## 🚀 Featured Projects
 
-> Replace repo links and previews with your actual projects (e.g., ChooseApp, PetWalkie, IndiaClete, Mamaearth, etc.).
-
 ### 1️⃣ ChooseApp – Interoperable Mobility SuperApp
 
 **Description:**  
-India’s first interoperable mobility super app to compare cab prices, ETAs, reviews, and ratings across major cab aggregators and book the most affordable, convenient ride in seconds.
+India’s first interoperable mobility super app that lets users compare cab prices, estimated arrival times, reviews, and ratings across major cab aggregators and book the most affordable and convenient ride in seconds. This helps users always get the most efficient deal for their trip.
 
 **Tech Stack:** `Flutter` · `Dart` · `REST APIs` · `Firebase`  
 
 **Highlights:**
-- ✨ Unified interface for multiple cab providers with real‑time comparison  
+- ✨ Unified interface for multiple cab providers with real‑time price and ETA comparison  
 - ⚙️ Clean, scalable architecture with modular feature layers  
-- 📈 Focus on performance, smooth UX, and reliability for everyday users  
+- 📈 Focus on performance, smooth UX, and reliability for everyday ride‑booking  
 
-**Links:**
-- 🔗 Repo: [Shaikh-Aabid/ChooseApp](https://github.com/Shaikh-Aabid) <!-- update with exact repo path -->
-- 🌐 Live / Demo: https://your-chooseapp-demo-link.com
+**Link:**
+- 🌐 Play Store: https://play.google.com/store/apps/details?id=com.az.choosecabs&hl=en_IN  
 
 <p align="center">
   <img src="https://via.placeholder.com/640x360.gif?text=ChooseApp+Preview" alt="ChooseApp Preview" width="75%" />
@@ -90,21 +87,20 @@ India’s first interoperable mobility super app to compare cab prices, ETAs, re
 
 ---
 
-### 2️⃣ Mamaearth – E‑commerce Mobile App
+### 2️⃣ Mamaearth – Attendance, Leave & Sales App
 
 **Description:**  
-A production‑style mobile app experience for browsing, filtering, and purchasing products with a smooth checkout flow.
+A business productivity application that manages employee attendance and leave, including application, approval/rejection, and automatic update of leave records. This streamlines communication between employees and employers regarding leave and attendance. In addition, sales employees can directly punch orders from the application, making field sales and reporting faster and more accurate.
 
-**Tech Stack:** `Flutter` · `Dart` · `REST APIs` · `Payment Gateway`  
+**Tech Stack:** `Flutter` · `Dart` · `REST APIs` · `Backend Integration`  
 
 **Highlights:**
-- 🧾 Product listing, filters, cart, and secure checkout  
-- ⚡ Optimized for performance with responsive UI and caching strategies  
-- 🧪 Well‑structured codebase designed for scalability and maintainability  
+- 🕒 Attendance tracking with structured leave management (apply, approve/reject, update records)  
+- 📩 Clear communication channel between employees and employers for leave and attendance workflows  
+- 🛒 Built‑in order punching so sales employees can directly create and manage orders from the app  
 
-**Links:**
-- 🔗 Repo: [Shaikh-Aabid/MAMAEARTH](https://github.com/Shaikh-Aabid/MAMAEARTH)
-- 🌐 Live / Demo: https://your-mamaearth-demo-link.com
+**Link:**
+- 🌐 Play Store: https://play.google.com/store/apps/details?id=org.pms.mamaearth&hl=en_IN  
 
 <p align="center">
   <img src="https://via.placeholder.com/640x360.png?text=Mamaearth+App+Screenshot" alt="Mamaearth App Screenshot" width="75%" />
@@ -115,18 +111,17 @@ A production‑style mobile app experience for browsing, filtering, and purchasi
 ### 3️⃣ PetWalkie – Pet Walking & Services App
 
 **Description:**  
-A mobile app concept for connecting pet owners with walkers and pet service providers.
+A mobile app concept that connects pet owners with walkers and pet service providers, making it easier to book and manage walks and services for pets.
 
 **Tech Stack:** `Flutter` · `Dart` · `Firebase`  
 
 **Highlights:**
 - 🐾 Simple onboarding and profile management for owners and walkers  
-- 📍 Location‑based features for service discovery  
-- 🔄 Real‑time updates and notifications using cloud backend  
+- 📍 Location‑oriented experience for discovering nearby pet services  
+- 🔄 Real‑time interactions and updates backed by a cloud backend  
 
-**Links:**
-- 🔗 Repo: [Shaikh-Aabid/PetWalkie](https://github.com/Shaikh-Aabid) <!-- update with exact repo path -->
-- 🌐 Live / Demo: https://your-petwalkie-demo-link.com
+**Link:**
+- 📂 Demo / APK / Preview: https://drive.google.com/file/d/1ua35r_eIG-Nfl-54ofQ0JbkAD-GLRevy/view?usp=drive_link  
 
 <p align="center">
   <img src="https://via.placeholder.com/640x360.gif?text=PetWalkie+Preview" alt="PetWalkie Preview" width="75%" />
@@ -153,8 +148,6 @@ A mobile app concept for connecting pet owners with walkers and pet service prov
 ---
 
 ## 🐍 Contribution Snake
-
-> After setting up the GitHub Action (e.g., Platane/snk), point this image to your generated snake SVG or GIF.
 
 <p align="center">
   <img 
@@ -192,7 +185,7 @@ A mobile app concept for connecting pet owners with walkers and pet service prov
 
 💬 **Let’s build something awesome together!**  
 If you’re interested in collaborating on Flutter apps, full‑stack projects, or open‑source, feel free to reach out using the links above.  
-⭐ If you like any of my repositories, consider giving them a star – it really motivates me to keep creating and sharing more projects!
+⭐ If you like any of my applications or projects, consider giving them a star or sharing feedback – it really motivates me to keep creating and improving!
 
 <!--
 Tip: Place this README.md in a repository named EXACTLY:
