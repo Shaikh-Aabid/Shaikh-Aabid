@@ -4,7 +4,7 @@
 
 <!-- Hero Banner -->
 <p align="center">
-  <img src="https://via.placeholder.com/960x260.png?text=Shaikh+Aabid+Hussain+-+Mobile+%26+Full+Stack+Developer" alt="Profile banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/Shaikh-Aabid/Shaikh-Aabid/main/assets/banner.png" alt="Profile banner" width="100%" />
 </p>
 
 <h1 align="center">Hi there, I'm Shaikh Aabid Hussain 👋</h1>
@@ -22,7 +22,7 @@
 ## 👨‍💻 About Me
 
 - 🔭 Currently working on: production‑grade <strong>Flutter apps</strong> and <strong>Laravel backends</strong> with a focus on scalability and UX  
-- 🌱 Exploring: <strong>AI integrations in mobile apps</strong>, better <strong>DevOps pipelines</strong>, and <strong>clean architecture</strong> patterns  
+- 🌱 Exploring: <strong>Api integrations in mobile apps</strong>, better <strong>DevOps pipelines</strong>, and <strong>clean architecture</strong> patterns  
 - 💬 Ask me about: Flutter, Dart, Laravel, REST APIs, state management, and app performance optimization  
 - 🎯 Goal: Build impactful products, grow in system design, and contribute more to open‑source  
 - ⚡ Fun fact: I enjoy turning complex ideas into simple, intuitive app experiences  
@@ -79,10 +79,10 @@ India’s first interoperable mobility super app that lets users compare cab pri
 - 📈 Focus on performance, smooth UX, and reliability for everyday ride‑booking  
 
 **Link:**
-- 🌐 Play Store: https://play.google.com/store/apps/details?id=com.az.choosecabs&hl=en_IN  
+- 🌐 Play Store: [https://play.google.com/store/apps/details?id=com.az.choosecabs&hl=en_IN](https://play.google.com/store/apps/details?id=com.az.choosecabs&hl=en_IN)  
 
 <p align="center">
-  <img src="https://via.placeholder.com/640x360.gif?text=ChooseApp+Preview" alt="ChooseApp Preview" width="75%" />
+  <img src="https://raw.githubusercontent.com/Shaikh-Aabid/Shaikh-Aabid/main/assets/chooseapp-preview.gif" alt="ChooseApp Preview" width="75%" />
 </p>
 
 ---
@@ -100,10 +100,10 @@ A business productivity application that manages employee attendance and leave, 
 - 🛒 Built‑in order punching so sales employees can directly create and manage orders from the app  
 
 **Link:**
-- 🌐 Play Store: https://play.google.com/store/apps/details?id=org.pms.mamaearth&hl=en_IN  
+- 🌐 Play Store: [https://play.google.com/store/apps/details?id=org.pms.mamaearth&hl=en_IN](https://play.google.com/store/apps/details?id=org.pms.mamaearth&hl=en_IN)  
 
 <p align="center">
-  <img src="https://via.placeholder.com/640x360.png?text=Mamaearth+App+Screenshot" alt="Mamaearth App Screenshot" width="75%" />
+  <img src="https://raw.githubusercontent.com/Shaikh-Aabid/Shaikh-Aabid/main/assets/mamaearth-preview.png" alt="Mamaearth App Screenshot" width="75%" />
 </p>
 
 ---
@@ -121,10 +121,10 @@ A mobile app concept that connects pet owners with walkers and pet service provi
 - 🔄 Real‑time interactions and updates backed by a cloud backend  
 
 **Link:**
-- 📂 Demo / APK / Preview: https://drive.google.com/file/d/1ua35r_eIG-Nfl-54ofQ0JbkAD-GLRevy/view?usp=drive_link  
+- 📂 Demo / APK / Preview: [https://drive.google.com/file/d/1ua35r_eIG-Nfl-54ofQ0JbkAD-GLRevy/view?usp=drive_link](https://drive.google.com/file/d/1ua35r_eIG-Nfl-54ofQ0JbkAD-GLRevy/view?usp=drive_link)  
 
 <p align="center">
-  <img src="https://via.placeholder.com/640x360.gif?text=PetWalkie+Preview" alt="PetWalkie Preview" width="75%" />
+  <img src="https://raw.githubusercontent.com/Shaikh-Aabid/Shaikh-Aabid/main/assets/petwalkie-preview.gif" alt="PetWalkie Preview" width="75%" />
 </p>
 
 ---
@@ -132,7 +132,6 @@ A mobile app concept that connects pet owners with walkers and pet service provi
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- GitHub Readme Stats -->
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Shaikh-Aabid&show_icons=true&theme=radical" 
     alt="Shaikh Aabid's GitHub stats" 
@@ -161,19 +160,15 @@ A mobile app concept that connects pet owners with walkers and pet service provi
 ## 🌐 Connect with Me
 
 <p align="center">
-  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <!-- Instagram -->
   <a href="https://www.instagram.com/YOUR_INSTAGRAM" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <!-- Twitter / X -->
   <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-0F1419?style=for-the-badge&logo=x&logoColor=white" alt="Twitter / X" />
   </a>
-  <!-- Email -->
   <a href="mailto:youremail@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -188,7 +183,7 @@ If you’re interested in collaborating on Flutter apps, full‑stack projects, 
 ⭐ If you like any of my applications or projects, consider giving them a star or sharing feedback – it really motivates me to keep creating and improving!
 
 <!--
-Tip: Place this README.md in a repository named EXACTLY:
+Tip: Place this README.md in:
 Shaikh-Aabid/Shaikh-Aabid
-so GitHub displays it on your profile.
+and upload all images into /assets with the same names used above.
 -->
