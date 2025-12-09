@@ -134,18 +134,10 @@ A mobile app concept that connects pet owners with walkers and pet service provi
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Shaikh-Aabid&show_icons=true&theme=radical"
-    alt="Shaikh Aabid GitHub Stats"
-    height="160"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Khan-Sohail&show_icons=true&theme=radical" alt="Sohail Khan GitHub Stats" />
 </p>
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaikh-Aabid&layout=compact&theme=radical"
-    alt="Shaikh's Top Languages"
-    height="160"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khan-Sohail&layout=compact&theme=radical" alt="Sohail's Top Languages" />
 </p>
 
 ---
@@ -153,10 +145,7 @@ A mobile app concept that connects pet owners with walkers and pet service provi
 ## 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Shaikh-Aabid/Shaikh-Aabid/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
-  />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ---
