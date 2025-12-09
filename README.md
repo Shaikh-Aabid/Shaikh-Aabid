@@ -71,7 +71,7 @@
 ### 1️⃣ ChooseApp – Interoperable Mobility SuperApp
 
 **Description:**  
-India’s first interoperable mobility super app that lets users compare cab prices, estimated arrival times, reviews, and ratings across major cab aggregators and book the most affordable and convenient ride in seconds. This helps users always get the most efficient deal for their trip.
+India’s first interoperable mobility super app that lets users compare cab prices, estimated arrival times, reviews, and ratings across major cab aggregators and book the most affordable and convenient ride in seconds. This helps users always get the most efficient deal for their trip.  
 
 **Tech Stack:** `Flutter` · `Dart` · `REST APIs` · `Firebase`  
 
@@ -84,5 +84,117 @@ India’s first interoperable mobility super app that lets users compare cab pri
 - 🌐 Play Store: [https://play.google.com/store/apps/details?id=com.az.choosecabs&hl=en_IN](https://play.google.com/store/apps/details?id=com.az.choosecabs&hl=en_IN)  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Shaikh-Aabid/Shaikh-Aabid/main/assets/chooseapp-preview.gif"
-       alt="ChooseApp Preview"
+  <img src="https://raw.githubusercontent.com/Shaikh-Aabid/Shaikh-Aabid/main/assets/chooseapp-preview.gif" alt="ChooseApp Preview" width="75%" />
+</p>
+
+---
+
+### 2️⃣ Mamaearth – Attendance, Leave & Sales App
+
+**Description:**  
+A business productivity application that manages employee attendance and leave, including application, approval/rejection, and automatic update of leave records. This streamlines communication between employees and employers regarding leave and attendance. In addition, sales employees can directly punch orders from the application, making field sales and reporting faster and more accurate.  
+
+**Tech Stack:** `Flutter` · `Dart` · `REST APIs` · `Backend Integration`  
+
+**Highlights:**
+- 🕒 Attendance tracking with structured leave management (apply, approve/reject, update records)  
+- 📩 Clear communication channel between employees and employers for leave and attendance workflows  
+- 🛒 Built‑in order punching so sales employees can directly create and manage orders from the app  
+
+**Link:**
+- 🌐 Play Store: [https://play.google.com/store/apps/details?id=org.pms.mamaearth&hl=en_IN](https://play.google.com/store/apps/details?id=org.pms.mamaearth&hl=en_IN)  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Shaikh-Aabid/Shaikh-Aabid/main/assets/mamaearth-preview.png" alt="Mamaearth App Screenshot" width="75%" />
+</p>
+
+---
+
+### 3️⃣ PetWalkie – Pet Walking & Services App
+
+**Description:**  
+A mobile app concept that connects pet owners with walkers and pet service providers, making it easier to book and manage walks and services for pets.  
+
+**Tech Stack:** `Flutter` · `Dart` · `Firebase`  
+
+**Highlights:**
+- 🐾 Simple onboarding and profile management for owners and walkers  
+- 📍 Location‑oriented experience for discovering nearby pet services  
+- 🔄 Real‑time interactions and updates backed by a cloud backend  
+
+**Link:**
+- 📂 Demo / APK / Preview: [https://drive.google.com/file/d/1ua35r_eIG-Nfl-54ofQ0JbkAD-GLRevy/view?usp=drive_link](https://drive.google.com/file/d/1ua35r_eIG-Nfl-54ofQ0JbkAD-GLRevy/view?usp=drive_link)  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Shaikh-Aabid/Shaikh-Aabid/main/assets/petwalkie-preview.gif" alt="PetWalkie Preview" width="75%" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Shaikh-Aabid&show_icons=true&theme=radical"
+    alt="Shaikh Aabid GitHub Stats"
+    height="160"
+  />
+</p>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaikh-Aabid&layout=compact&theme=radical"
+    alt="Shaikh's Top Languages"
+    height="160"
+  />
+</p>
+
+---
+
+## 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Shaikh-Aabid/Shaikh-Aabid/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/YOUR_INSTAGRAM" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-0F1419?style=for-the-badge&logo=x&logoColor=white" alt="Twitter / X" />
+  </a>
+  <a href="mailto:youremail@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+## ✅ Call to Action
+
+💬 **Let’s build something awesome together!**  
+If you’re interested in collaborating on Flutter apps, full‑stack projects, or open‑source, feel free to reach out using the links above.  
+⭐ If you like any of my applications or projects, consider giving them a star or sharing feedback – it really motivates me to keep creating and improving!
+
+<!--
+Place this README.md in:
+Shaikh-Aabid/Shaikh-Aabid
+
+Ensure these files exist in your repo:
+- main/assets/banner.png
+- main/assets/chooseapp-preview.gif
+- main/assets/mamaearth-preview.png
+- main/assets/petwalkie-preview.gif
+and configure the snake GitHub Action to generate:
+- output/github-contribution-grid-snake.svg
+-->
