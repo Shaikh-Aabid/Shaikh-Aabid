@@ -131,16 +131,6 @@ A mobile app concept that connects pet owners with walkers and pet service provi
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shaikh-Aabid&show_icons=true&theme=radical" alt="Shaikh Aabid Hussain GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaikh-Aabid&layout=compact&theme=radical" alt="Aabid Hussain's Top Languages" />
-</p>
-
----
 
 ## 🐍 GitHub Contribution Snake
 
